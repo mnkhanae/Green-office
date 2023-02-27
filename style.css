@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&family=Oswald:wght@300&family=Poppins&display=swap");
+html {
+  font-size: 62%;
+}
+#liens {
+  font-size: 1.8rem;
+}
+.container {
+  margin-left: 270px;
+  margin-right: 270px;
+}
+main {
+  background-color: white;
+  padding: 20px;
+  height: 750px;
+}
+body {
+  background-color: rgb(209, 207, 207);
+  font-family: "tahoma";
+  color: #5c5b5b;
+}
+.main-head {
+  background-color: #b8cb21;
+}
+
+a {
+  color: #314723;
+  font-family: "oswald", "sans serif";
+}
+
+nav {
+  display: flex;
+  height: 110px;
+  padding-right: 30px;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  width: 250px;
+  margin-left: 220px;
+}
+.police {
+  font-family: "oswald", "sans serif";
+}
+H2 {
+  color: #b8cb21;
+  font-size: 2rem;
+  font-weight: 400;
+}
+p {
+  font-family: tahoma;
+  font-size: 1.5rem;
+  display: inline;
+  width: 200px;
+  text-align: justify;
+}
+.picture {
+  float: left;
+  margin-right: 10px;
+}
+.btn {
+  float: right;
+  margin-top: 15px;
+}
+button {
+  background-color: #b8cb21;
+  color: #ffffff;
+  border: none;
+  padding: 10px;
+}
+.list {
+  font-size: 1.5rem;
+}
+footer {
+  text-align: center;
+}
+.part-two {
+  margin-top: 50px;
+}
